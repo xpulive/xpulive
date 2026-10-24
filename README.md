@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://xpu.live/">
-    <img src="https://xpu.live/wp-content/themes/tokenatlas-preview/assets/icons/tokenatlas-180.png?v=1790609010" width="88" height="88" alt="xpu live mark">
+    <img src="assets/xpu-mark.png" width="88" height="88" alt="xpu live mark">
   </a>
   <h1>xpu live</h1>
   <p><strong>A clearer view of AI, compute and robotics.</strong></p>
@@ -25,6 +25,25 @@
 Choosing a model, a hosting platform or a GPU involves more than a headline price. xpu live brings those details together in searchable catalogs and published profiles, with public interfaces for applications and AI assistants.
 
 This repository is the product overview and public integration guide for xpu live.
+
+## Inside xpu live
+
+[![AI model comparison with source-linked benchmarks, pricing and provider filters](assets/screenshots/models.jpg)](https://xpu.live/)
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://xpu.live/gpu/"><img src="assets/screenshots/gpu.jpg" alt="Cloud GPU explorer with hardware filters and rental offers" width="100%"></a><br>
+      <strong>Cloud GPU explorer</strong><br>Hardware, rental prices and provider conditions.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://xpu.live/agent-hosting/"><img src="assets/screenshots/agent-hosting.jpg" alt="Agent Hosting comparison table with companies, plans and billing conditions" width="100%"></a><br>
+      <strong>Agent Hosting</strong><br>Companies, published plans and billing details.
+    </td>
+  </tr>
+</table>
+
+*Actual website views captured on 24 October 2026. Prices, rankings, counts and interface details in these images are snapshots; follow the live website for current information.*
 
 ## Explore the catalog
 
