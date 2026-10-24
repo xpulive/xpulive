@@ -13,6 +13,9 @@
   </p>
 </div>
 
+> [!IMPORTANT]
+> **Beta — under active development.** xpu live is currently in beta. Some features or integrations may not work as expected, and data may be incomplete or contain errors. Verify important details against the linked official sources and [report any issues](https://xpu.live/report-error/).
+
 ---
 
 ## What is xpu live?
